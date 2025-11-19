@@ -1,0 +1,45 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+
+.container h2{
+    font-weight:bolder;
+    /* background-color: darkgreen; */
+    color:bisque;
+}
+.container h3{
+    color:bisque;
+}
+.container h4{
+    color:bisque;
+}
+#totalExpense{
+    color: crimson;
+    font-weight: bolder;
+}
+label{
+    font-weight: bold;
+    color: bisque;
+}
+.card{
+    border-radius: 12px;
+}
+
+#login{
+    border-radius: 25%;
+    background-color: brown;
+}
+#register{
+    border-radius: 25%;
+    background-color:brown;
+}
+#loginPage h2{
+    color: crimson;
+}
+
+#expenseChart{
+    max-width: 300px;
+    max-height: 300px;
+    margin: 0 auto;
+}
